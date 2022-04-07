@@ -1,4 +1,4 @@
-# Garage-Managing-System
+# Garage-Management-System
 Short summary of the project:
 Garage.java utilizes a stack to simulate cars entering and exiting a garage. Since the garage can only accommodate 7 cars at a time, the rest of the cars that want to enter the garage need to wait in a First-In-First-Out queue for their turns. The arrival and departure of the each vehicle are kept track of and the ones waiting to enter the garage are moved in when space becomes available.
 
